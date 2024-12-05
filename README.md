@@ -1,1 +1,1 @@
-2nd class activity.
+Branching and Pushing assignment class #2. 
